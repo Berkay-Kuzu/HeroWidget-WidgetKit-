@@ -1,6 +1,6 @@
 # HeroWidget-WidgetKit-
 
-This is a hero widget extention. The users can select one of four heros and show it in their screen as a widget. I created this app by using WidgetKit and AppStorage. I saved all data to AppStorage which can be used like UserDefaults.
+This is a hero widget extention built with SwiftUI. The users can select one of four heros and show it in their screen as a widget. I created this app by using WidgetKit and AppStorage. I saved all data to AppStorage which can be used like UserDefaults.
 
 <img width="359" alt="widget1" src="https://user-images.githubusercontent.com/92036779/191625454-2dc8893a-abb6-49f9-a96b-d969b36c966e.png">
 <img width="356" alt="widget2" src="https://user-images.githubusercontent.com/92036779/191625505-82ba4613-ee1f-4045-a642-4463834bb4ce.png">
